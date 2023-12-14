@@ -15,16 +15,13 @@ let myMap = L.map("map", {
 let countryMarkers = [];
 let countryLocation = [];
 
-
-
 d3.json(url).then(function (data) {
-    
 
   for (let i = 0; i < data.length; i++) {
     if (data[i].Latitude){
     countryLocation.push([data[i].Latitude, data[i].Longitude]);
     countryMarkers.push(
-    L.marker(countryLocation[i]).bindPopup("<h1>" + data[i].Country + "</h1>")
+    L.marker(countryLocation[i]).bindPopup("<h1>" + data[i].Country + "</h1>").addTo(myMap)
       );
      }
 // console.log(countryLocation);
@@ -36,11 +33,11 @@ let baseMaps = {
 };
 
 // Overlays that can be toggled on or off
-let overlayMaps = {
-  Country: countryLayer
-};
+// let overlayMaps = {
+//   Country: countryLayer
+// };
 
-L.control.layers(baseMaps, overlayMaps).addTo(myMap);
+L.control.layers(baseMaps).addTo(myMap);
 
 });
 
