@@ -6,36 +6,80 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>My App</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
   <script src="https://d3js.org/d3.v5.min.js"></script>
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-  <link rel="stylesheet" href="./static/css/style.css">
+  <!-- <link rel="stylesheet" href="./static/css/style.css"> -->
+
 </head>
 
 <body>
+
   <div class="container">
-    <h1>Country</h1>
-    <p>Use the interactive charts below to explore the dataset</p>
-
-    <aside>
-      <select></select>
-      <div id="metadata"></div>
-    </aside>
-
-    <main>
-      <div id="bar"></div>
-      <div id="map"></div>
-    </main>
-
-    <div id="genderDiv">
-      <select id="select"></select>
-      <div id="genderChart"></div>
+    <div class="row">
+      <div class="col-md-12 jumbotron text-center">
+        <h1>Country</h1>
+        <p>Use the interactive charts below to explore the dataset</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-5">
+        <div class="well">
+          <!-- <h5>Test Subject ID No.:</h5> -->
+          <!-- <select id="selDataset" onchange="optionChanged(this.value)"></select> -->
+          <select></select>
+        </div>
+        <div class="panel panel-primary">
+          <div class="panel-heading">
+            <h3 class="panel-title">Demographic Info</h3>
+          </div>
+          <!-- <div id="sample-metadata" class="panel-body"></div> -->
+          <div id="metadata"></div>
+        </div>
+      </div>
+      <div class="col-md-5">
+        <div id="bar"></div>
+      </div>
+      <div class="col-md-2">
+        <!-- <div id="genderChart"></div> -->
+      </div>
+    </div>
+    <div class="row">
+        <div class="col-md-3">
+          <h3 class="panel-title">Sex</h3>
+          <div class="well">
+            <!-- <h5>Test Subject ID No.:</h5> -->
+            <!-- <select id="selDataset" onchange="optionChanged(this.value)"></select> -->
+            <select id="select"></select>
+          </div>
+          <div class="panel panel-primary">
+            <!-- <div class="panel-heading">
+              <h3 class="panel-title">Demographic Info</h3>
+            </div>
+            <div id="sample-metadata" class="panel-body"></div>
+            <div id="metadata"></div> -->
+          </div>
+        </div>
+        <div class="col-md-5">
+          <div id="genderChart"></div>
+        </div>
+        <div class="col-md-4">
+          <!-- <div id="map"></div> -->
+        </div>
+        
+      </div>
+    <div class="row">
+      <div class="col-md-12">
+        <h2 class="panel-title">Blue Zones</h2>
+        <div id="map"></div>
+      </div>
     </div>
   </div>
 
-  <!-- <script src="{{ url_for('static', filename='js/app.js') }}"></script>  -->
   <script src="https://d3js.org/d3.v7.min.js"></script>
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-  <script src="./static/js/app.js"></script>
+  <script src="static/js/app.js"></script>
   <!-- <script src="./static/js/bonus.js"></script> -->
 
 </body>
