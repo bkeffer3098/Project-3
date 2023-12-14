@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Blue Zones Map</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <style>
+    body, html {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      background-color: #e6f7ff; /* Light blue background */
+    }
+
+    #map {
+      height: 100%;
+      width: 100%;
+    }
+
+    .blue-marker {
+      fill: #4da6ff; /* Light blue fill for blue markers */
+      stroke: #007bb5; /* Darker blue stroke for blue markers */
+    }
+
+    .label {
+      font-weight: bold;
+      text-align: left;
+      font-size: 12px;
+      color: #333; /* Dark gray font color */
+      cursor: pointer;
+      pointer-events: none; /* Prevent labels from blocking map interactivity */
+      white-space: nowrap; /* Prevent label text from wrapping */
+    }
+
+    .label-arrow {
+      width: 0;
+      height: 0;
+      border-top: 8px solid transparent;
+      border-bottom: 8px solid transparent;
+      border-left: 10px solid #001a33; /* Very dark blue color */
+      display: inline-block;
+      margin-right: 5px;
+      margin-left: 5px; /* Adjusted margin to avoid touching the marker */
+    }
+  </style>
+</head>
+<body>
+
+<div id="map"></div>
+
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+<script>
+  var blueZonesData = [
+    { "id": 1, "name": "Okinawa, Japan", "lat": 26.5794, "lon": 127.9770, "color": "blue", "lifeExpectancy": 81.2 },
+    { "id": 2, "name": "Sardinia, Italy", "lat": 40.1209, "lon": 9.0129, "color": "blue", "lifeExpectancy": 82.2 },
+    { "id": 3, "name": "Loma Linda, USA", "lat": 34.0489, "lon": -117.2498, "color": "blue", "lifeExpectancy": 82.9 },
+    { "id": 4, "name": "Nicoya Peninsula, Costa Rica", "lat": 10.1548, "lon": -85.4520, "color": "blue", "lifeExpectancy": 78.3 },
+    { "id": 5, "name": "Icaria, Greece", "lat": 37.6462, "lon": 26.3479, "color": "blue", "lifeExpectancy": 82.1 },
+  ];
+
+  var map = L.map('map').setView([28, 5], 2); // Centered on the world, adjust as needed
+
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '© OpenStreetMap contributors'
+  }).addTo(map);
+
+  blueZonesData.forEach(function(zone) {
+    var marker = L.circleMarker([zone.lat, zone.lon], { className: "blue-marker", radius: 8 })
+      .bindPopup(`<b>${zone.name}</b><br>Life Expectancy: ${zone.lifeExpectancy} years`)
+      .addTo(map);
+
+    var label = L.divIcon({ className: 'label', html: `<div class="label-arrow"></div>${zone.name}`, iconAnchor: [0, 0] });
+    L.marker([zone.lat, zone.lon], { icon: label }).addTo(map);
+  });
+
+  // Make labels and markers interactive
+  document.querySelectorAll('.label').forEach(function(label) {
+    label.addEventListener('click', function(e) {
+      var zoneId = e.target.dataset.id;
+      var marker = map._layers[zoneId];
+      if (marker instanceof L.Marker) {
+        marker.openPopup();
+      }
+    });
+  });
+
+  map.on('popupopen', function(e) {
+    // Make sure the marker is highlighted when its popup is open
+    var marker = e.popup._source;
+    if (marker instanceof L.CircleMarker) {
+      marker.setStyle({ fillOpacity: 1 });
+    }
+  });
+
+  map.on('popupclose', function(e) {
+    // Reset marker style when popup is closed
+    var marker = e.popup._source;
+    if (marker instanceof L.CircleMarker) {
+      marker.setStyle({ fillOpacity: 0.6 });
+    }
+  });
+</script>
+
+</body>
+</html>
