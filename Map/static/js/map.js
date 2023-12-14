@@ -10,7 +10,7 @@ let myMap = L.map("map", {
   }).addTo(myMap);
   
 // Load the JSON data.
-  let url = "https://raw.githubusercontent.com/bkeffer3098/Project-3/main/LifeExpectancy.json";
+  let url = "https://raw.githubusercontent.com/bkeffer3098/Project-3/main/Resources/Final%20Data/LifeExpectancy.json";
   
 let countryMarkers = [];
 let countryLocation = [];
