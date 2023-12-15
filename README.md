@@ -24,4 +24,3 @@ https://www.who.int/
 
 
 GitHub - bkeffer3098/Project-3
-Contribute to bkeffer3098/Project-3 development by creating an account on GitHub. (98 kB)
