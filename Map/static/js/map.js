@@ -24,7 +24,7 @@ d3.json(url).then(function (data) {
     try {
       countryLocation.push([Number(data[i].Latitude), Number(data[i].Longitude)]);
       countryMarkers.push(
-      L.marker(countryLocation[i]).bindPopup("<h1>" + data[i].Country + "</h1>" + "<h3>" + "Average years to live after age 60: " + data[i]["Age Expectancy"] + "</h3>").addTo(myMap)
+      L.marker(countryLocation[i]).bindPopup("<h1>" + data[i].Country + "</h1>" + "<h3>" + "Average years to live after age 60: </h3>" + "<h3>" + data[i]["Age Expectancy"] + " years </h3>").addTo(myMap)
       );}
     catch(err){}
   }
