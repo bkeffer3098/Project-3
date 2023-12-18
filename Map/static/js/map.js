@@ -10,7 +10,7 @@ let myMap = L.map("map", {
   }).addTo(myMap);
   
 // Load the JSON data.
-  let url = "https://raw.githubusercontent.com/bkeffer3098/Project-3/main/Resources/Final%20Data/male_female.json";
+  let both = "https://raw.githubusercontent.com/bkeffer3098/Project-3/main/Resources/Final%20Data/all_sexes.json";
   
 let countryMarkers = [];
 let countryMale = [];
@@ -27,7 +27,25 @@ let greenIcon = new L.Icon({
   shadowSize: [41, 41]
 });
 
-d3.json(url).then(function (data) {
+let redIcon = new L.Icon({
+  iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-red.png',
+  shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
+  iconSize: [25, 41],
+  iconAnchor: [12, 41],
+  popupAnchor: [1, -34],
+  shadowSize: [41, 41]
+});
+
+let violetIcon = new L.Icon({
+  iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-violet.png',
+  shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
+  iconSize: [25, 41],
+  iconAnchor: [12, 41],
+  popupAnchor: [1, -34],
+  shadowSize: [41, 41]
+});
+
+d3.json(both).then(function (data) {
   console.log(data);
 
   // Initial Map Layer
@@ -55,3 +73,5 @@ d3.json(url).then(function (data) {
   
   L.control.layers(baseMaps, overlayMaps).addTo(myMap);
 });
+
+
