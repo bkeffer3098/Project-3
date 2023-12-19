@@ -1,0 +1,2154 @@
+[{
+  "_id": {
+    "$oid": "657bb2779de839b563e77ff0"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Kiribati",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 10.34,
+  "Latitude": 1.42,
+  "Longitude": 173
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e77ff1"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Afghanistan",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 10.84,
+  "Latitude": 33,
+  "Longitude": 65
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e77ff2"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Eswatini",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 10.98
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e77ff3"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Micronesia (Federated States of)",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 11.14
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e77ff4"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Somalia",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 11.18,
+  "Latitude": 10,
+  "Longitude": 49
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e77ff5"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Guinea-Bissau",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 11.38,
+  "Latitude": 12,
+  "Longitude": -15
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e77ff6"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Eritrea",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 11.41,
+  "Latitude": 15,
+  "Longitude": 39
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e77ff7"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Zimbabwe",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 11.48,
+  "Latitude": -20,
+  "Longitude": 30
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e77ff8"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Mozambique",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 11.59,
+  "Latitude": -18.25,
+  "Longitude": 35
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e77ff9"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Solomon Islands",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 11.78,
+  "Latitude": -8,
+  "Longitude": 159
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e77ffa"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Botswana",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 11.79,
+  "Latitude": -22,
+  "Longitude": 24
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e77ffb"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Fiji",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 11.84,
+  "Latitude": -18,
+  "Longitude": 175
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e77ffc"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Vanuatu",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 11.94,
+  "Latitude": -16,
+  "Longitude": 167
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e77ffd"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Congo",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 12.25,
+  "Latitude": -1,
+  "Longitude": 15
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e77ffe"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Chad",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 12.26,
+  "Latitude": 15,
+  "Longitude": 19
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e77fff"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Papua New Guinea",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 12.28,
+  "Latitude": -6,
+  "Longitude": 147
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78000"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Guinea",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 12.31,
+  "Latitude": 11,
+  "Longitude": -10
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78001"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Guyana",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 12.51,
+  "Latitude": 5,
+  "Longitude": -59
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78002"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Democratic Republic of the Congo",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 12.53
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78003"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Pakistan",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 12.57,
+  "Latitude": 30,
+  "Longitude": 70
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78004"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Zambia",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 12.58,
+  "Latitude": -15,
+  "Longitude": 30
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78005"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Burkina Faso",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 12.61,
+  "Latitude": 13,
+  "Longitude": -2
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78006"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Sierra Leone",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 12.61,
+  "Latitude": 8.5,
+  "Longitude": -11.5
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78007"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Mongolia",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 12.62,
+  "Latitude": 46,
+  "Longitude": 105
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78008"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Angola",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 12.64,
+  "Latitude": -12.5,
+  "Longitude": 18.5
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78009"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Gambia",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 12.64,
+  "Latitude": 13.47,
+  "Longitude": -16.57
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7800a"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Madagascar",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 12.64,
+  "Latitude": -20,
+  "Longitude": 47
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7800b"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Burundi",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 12.66,
+  "Latitude": -3.5,
+  "Longitude": 30
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7800c"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "South Sudan",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 12.66
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7800d"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Côte d’Ivoire",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 12.68
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7800e"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Namibia",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 12.72,
+  "Latitude": -22,
+  "Longitude": 17
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7800f"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Tajikistan",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 12.73,
+  "Latitude": 39,
+  "Longitude": 71
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78010"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Cameroon",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 12.77,
+  "Latitude": 6,
+  "Longitude": 12
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78011"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Gabon",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 12.77,
+  "Latitude": -1,
+  "Longitude": 11.75
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78012"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Malawi",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 12.78,
+  "Latitude": -13.5,
+  "Longitude": 34
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78013"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Togo",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 12.78,
+  "Latitude": 8,
+  "Longitude": 1.17
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78014"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Haiti",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 12.8,
+  "Latitude": 19,
+  "Longitude": -72.42
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78015"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Mali",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 12.8,
+  "Latitude": 17,
+  "Longitude": -4
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78016"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Liberia",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 12.85,
+  "Latitude": 6.5,
+  "Longitude": -9.5
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78017"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Equatorial Guinea",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 12.92,
+  "Latitude": 2,
+  "Longitude": 10
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78018"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Ghana",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 12.94,
+  "Latitude": 8,
+  "Longitude": -2
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78019"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Niger",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 12.99,
+  "Latitude": 16,
+  "Longitude": 8
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7801a"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Benin",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 13.01,
+  "Latitude": 9.5,
+  "Longitude": 2.25
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7801b"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Kenya",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 13.06,
+  "Latitude": 1,
+  "Longitude": 38
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7801c"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Senegal",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 13.14,
+  "Latitude": 14,
+  "Longitude": -14
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7801d"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Sao Tome and Principe",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 13.15,
+  "Latitude": 1,
+  "Longitude": 7
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7801e"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Timor-Leste",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 13.17
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7801f"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Cambodia",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 13.18,
+  "Latitude": 13,
+  "Longitude": 105
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78020"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Oman",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 13.18,
+  "Latitude": 21,
+  "Longitude": 57
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78021"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "India",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 13.25,
+  "Latitude": 20,
+  "Longitude": 77
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78022"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Nepal",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 13.25,
+  "Latitude": 28,
+  "Longitude": 84
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78023"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Yemen",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 13.27,
+  "Latitude": 15,
+  "Longitude": 48
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78024"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Lao People's Democratic Republic",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 13.3,
+  "Latitude": 18,
+  "Longitude": 105
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78025"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Indonesia",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 13.35,
+  "Latitude": -5,
+  "Longitude": 120
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78026"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Azerbaijan",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 13.37,
+  "Latitude": 40.5,
+  "Longitude": 47.5
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78027"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Egypt",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 13.37,
+  "Latitude": 27,
+  "Longitude": 30
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78028"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "United Republic of Tanzania",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 13.37
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78029"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Samoa",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 13.4,
+  "Latitude": -13.58,
+  "Longitude": -172.33
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7802a"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Uganda",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 13.4,
+  "Latitude": 1,
+  "Longitude": 32
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7802b"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Philippines",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 13.41,
+  "Latitude": 13,
+  "Longitude": 122
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7802c"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Nigeria",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 13.54,
+  "Latitude": 10,
+  "Longitude": 8
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7802d"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Myanmar",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 13.59,
+  "Latitude": 22,
+  "Longitude": 98
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7802e"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Rwanda",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 13.6,
+  "Latitude": -2,
+  "Longitude": 30
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7802f"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Djibouti",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 13.61,
+  "Latitude": 11.5,
+  "Longitude": 43
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78030"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Sudan",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 13.64,
+  "Latitude": 15,
+  "Longitude": 30
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78031"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Comoros",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 13.69,
+  "Latitude": -12.17,
+  "Longitude": 44.25
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78032"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Honduras",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 13.83,
+  "Latitude": 15,
+  "Longitude": -86.5
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78033"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Bahrain",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 13.84,
+  "Latitude": 26,
+  "Longitude": 50.55
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78034"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "South Africa",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 13.86,
+  "Latitude": -29,
+  "Longitude": 24
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78035"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Ethiopia",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 13.87,
+  "Latitude": 8,
+  "Longitude": 38
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78036"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Syrian Arab Republic",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 13.94,
+  "Latitude": 35,
+  "Longitude": 38
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78037"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "The former Yugoslav Republic of Macedonia",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 14.02
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78038"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Saudi Arabia",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 14.04,
+  "Latitude": 25,
+  "Longitude": 45
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78039"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Suriname",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 14.05,
+  "Latitude": 4,
+  "Longitude": -56
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7803a"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Seychelles",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 14.07,
+  "Latitude": -4.58,
+  "Longitude": 55.67
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7803b"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Morocco",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 14.12,
+  "Latitude": 32,
+  "Longitude": -5
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7803c"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Bolivia (Plurinational State of)",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 14.17
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7803d"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Iraq",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 14.19,
+  "Latitude": 33,
+  "Longitude": 44
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7803e"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Qatar",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 14.19,
+  "Latitude": 25.5,
+  "Longitude": 51.25
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7803f"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Mauritania",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 14.28,
+  "Latitude": 20,
+  "Longitude": -12
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78040"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Grenada",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 14.34,
+  "Latitude": 12.12,
+  "Longitude": -61.67
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78041"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Georgia",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 14.41,
+  "Latitude": 42,
+  "Longitude": 43.5
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78042"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Tonga",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 14.46,
+  "Latitude": -20,
+  "Longitude": -175
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78043"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "United Arab Emirates",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 14.47,
+  "Latitude": 24,
+  "Longitude": 54
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78044"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Bhutan",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 14.49,
+  "Latitude": 27.5,
+  "Longitude": 90.5
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78045"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Brunei Darussalam",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 14.5,
+  "Latitude": 4.5,
+  "Longitude": 114.67
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78046"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Mauritius",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 14.5,
+  "Latitude": -20.28,
+  "Longitude": 57.55
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78047"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Uzbekistan",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 14.51,
+  "Latitude": 41,
+  "Longitude": 64
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78048"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Republic of Moldova",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 14.55
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78049"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Malaysia",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 14.63,
+  "Latitude": 2.5,
+  "Longitude": 112.5
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7804a"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Turkmenistan",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 14.72,
+  "Latitude": 40,
+  "Longitude": 60
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7804b"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Viet Nam",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 14.76
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7804c"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Kazakhstan",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 14.8,
+  "Latitude": 48,
+  "Longitude": 68
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7804d"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Cabo Verde",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 14.87
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7804e"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Democratic People's Republic of Korea",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 14.88
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7804f"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Serbia",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 14.9,
+  "Latitude": 44,
+  "Longitude": 21
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78050"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Montenegro",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 14.92,
+  "Latitude": 42,
+  "Longitude": 19
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78051"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Ukraine",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 14.97,
+  "Latitude": 49,
+  "Longitude": 32
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78052"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Guatemala",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 15.03,
+  "Latitude": 15.5,
+  "Longitude": -90.25
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78053"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Lebanon",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 15.03,
+  "Latitude": 33.83,
+  "Longitude": 35.83
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78054"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Russian Federation",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 15.03,
+  "Latitude": 60,
+  "Longitude": 100
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78055"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Nicaragua",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 15.08,
+  "Latitude": 13,
+  "Longitude": -85
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78056"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Belarus",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 15.11,
+  "Latitude": 53,
+  "Longitude": 28
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78057"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Bosnia and Herzegovina",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 15.21,
+  "Latitude": 44,
+  "Longitude": 18
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78058"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Bulgaria",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 15.24,
+  "Latitude": 43,
+  "Longitude": 25
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78059"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Hungary",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 15.3,
+  "Latitude": 47,
+  "Longitude": 20
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7805a"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Sri Lanka",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 15.3,
+  "Latitude": 7,
+  "Longitude": 81
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7805b"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Bangladesh",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 15.5,
+  "Latitude": 24,
+  "Longitude": 90
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7805c"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Libya",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 15.54
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7805d"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Latvia",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 15.64,
+  "Latitude": 57,
+  "Longitude": 25
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7805e"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Romania",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 15.66,
+  "Latitude": 46,
+  "Longitude": 25
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7805f"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Kyrgyzstan",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 15.68,
+  "Latitude": 41,
+  "Longitude": 75
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78060"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 15.72
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78061"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Armenia",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 15.73,
+  "Latitude": 40,
+  "Longitude": 45
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78062"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Saint Lucia",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 15.81,
+  "Latitude": 13.88,
+  "Longitude": -61.13
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78063"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Antigua and Barbuda",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 15.83,
+  "Latitude": 17.05,
+  "Longitude": -61.8
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78064"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Saint Vincent and the Grenadines",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 15.91,
+  "Latitude": 13.25,
+  "Longitude": -61.2
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78065"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "China",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 15.92,
+  "Latitude": 35,
+  "Longitude": 105
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78066"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Lithuania",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 15.92,
+  "Latitude": 56,
+  "Longitude": 24
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78067"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Dominican Republic",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 15.99,
+  "Latitude": 19,
+  "Longitude": -70.67
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78068"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Tunisia",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 15.99,
+  "Latitude": 34,
+  "Longitude": 9
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78069"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Algeria",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 16.02,
+  "Latitude": 28,
+  "Longitude": 3
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7806a"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Mexico",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 16.07,
+  "Latitude": 23,
+  "Longitude": -102
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7806b"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Bahamas",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 16.16,
+  "Latitude": 24.25,
+  "Longitude": -76
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7806c"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Jordan",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 16.23,
+  "Latitude": 31,
+  "Longitude": 36
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7806d"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Croatia",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 16.24,
+  "Latitude": 45.17,
+  "Longitude": 15.5
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7806e"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Argentina",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 16.27,
+  "Latitude": -34,
+  "Longitude": -64
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7806f"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Venezuela (Bolivarian Republic of)",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 16.29
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78070"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Cuba",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 16.31,
+  "Latitude": 21.5,
+  "Longitude": -80
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78071"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Czechia",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 16.32
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78072"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Barbados",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 16.34,
+  "Latitude": 13.17,
+  "Longitude": -59.53
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78073"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Brazil",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 16.35,
+  "Latitude": -10,
+  "Longitude": -55
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78074"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "United States of America",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 16.35
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78075"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "El Salvador",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 16.38,
+  "Latitude": 13.83,
+  "Longitude": -88.92
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78076"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Jamaica",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 16.39,
+  "Latitude": 18.25,
+  "Longitude": -77.5
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78077"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Paraguay",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 16.48,
+  "Latitude": -23,
+  "Longitude": -58
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78078"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Slovakia",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 16.57,
+  "Latitude": 48.67,
+  "Longitude": 19.5
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78079"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Albania",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 16.58,
+  "Latitude": 41,
+  "Longitude": 20
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7807a"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Türkiye",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 16.6
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7807b"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Uruguay",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 16.64,
+  "Latitude": -33,
+  "Longitude": -56
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7807c"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Belize",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 16.69,
+  "Latitude": 17.25,
+  "Longitude": -88.75
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7807d"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Maldives",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 16.79,
+  "Latitude": 3.25,
+  "Longitude": 73
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7807e"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Poland",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 16.84,
+  "Latitude": 52,
+  "Longitude": 20
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7807f"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Trinidad and Tobago",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 17.24,
+  "Latitude": 11,
+  "Longitude": -61
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78080"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Estonia",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 17.29,
+  "Latitude": 59,
+  "Longitude": 26
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78081"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Ecuador",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 17.6,
+  "Latitude": -2,
+  "Longitude": -77.5
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78082"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Kuwait",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 17.78,
+  "Latitude": 29.34,
+  "Longitude": 47.66
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78083"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Slovenia",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 17.83,
+  "Latitude": 46,
+  "Longitude": 15
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78084"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Thailand",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 17.96,
+  "Latitude": 15,
+  "Longitude": 100
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78085"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Colombia",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 18.06,
+  "Latitude": 4,
+  "Longitude": -72
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78086"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Panama",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 18.14,
+  "Latitude": 9,
+  "Longitude": -80
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78087"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Belgium",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 18.17,
+  "Latitude": 50.83,
+  "Longitude": 4
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78088"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Denmark",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 18.23,
+  "Latitude": 56,
+  "Longitude": 10
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78089"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 18.25
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7808a"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Austria",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 18.35,
+  "Latitude": 47.33,
+  "Longitude": 13.33
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7808b"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Chile",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 18.37,
+  "Latitude": -30,
+  "Longitude": -71
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7808c"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Greece",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 18.44,
+  "Latitude": 39,
+  "Longitude": 22
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7808d"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Netherlands",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 18.44,
+  "Latitude": 52.5,
+  "Longitude": 5.75
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7808e"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Finland",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 18.46,
+  "Latitude": 64,
+  "Longitude": 26
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7808f"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Norway",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 18.46,
+  "Latitude": 62,
+  "Longitude": 10
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78090"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Germany",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 18.47,
+  "Latitude": 51,
+  "Longitude": 9
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78091"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Peru",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 18.49,
+  "Latitude": -10,
+  "Longitude": -76
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78092"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Luxembourg",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 18.52,
+  "Latitude": 49.75,
+  "Longitude": 6.17
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78093"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "New Zealand",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 18.55,
+  "Latitude": -41,
+  "Longitude": 174
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78094"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Ireland",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 18.58,
+  "Latitude": 53,
+  "Longitude": -8
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78095"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Portugal",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 18.65,
+  "Latitude": 39.5,
+  "Longitude": -8
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78096"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Costa Rica",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 18.69,
+  "Latitude": 10,
+  "Longitude": -84
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78097"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Malta",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 18.86,
+  "Latitude": 35.83,
+  "Longitude": 14.58
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78098"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Sweden",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 18.86,
+  "Latitude": 62,
+  "Longitude": 15
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e78099"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Italy",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 18.91,
+  "Latitude": 42.83,
+  "Longitude": 12.83
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7809a"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Australia",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 18.98,
+  "Latitude": -27,
+  "Longitude": 133
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7809b"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Canada",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 18.99,
+  "Latitude": 60,
+  "Longitude": -95
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7809c"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Cyprus",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 19,
+  "Latitude": 35,
+  "Longitude": 33
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7809d"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Iceland",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 19.04,
+  "Latitude": 65,
+  "Longitude": -18
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7809e"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Spain",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 19.2,
+  "Latitude": 40,
+  "Longitude": -4
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e7809f"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Israel",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 19.33,
+  "Latitude": 31.5,
+  "Longitude": 34.75
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e780a0"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Switzerland",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 19.52,
+  "Latitude": 47,
+  "Longitude": 8
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e780a1"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "France",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 19.7,
+  "Latitude": 46,
+  "Longitude": 2
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e780a2"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Republic of Korea",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 19.81
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e780a3"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Singapore",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 19.95,
+  "Latitude": 1.37,
+  "Longitude": 103.8
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e780a4"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Japan",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 20.39,
+  "Latitude": 36,
+  "Longitude": 138
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e780a5"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Lesotho",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 9.79,
+  "Latitude": -29.5,
+  "Longitude": 28.5
+},
+{
+  "_id": {
+    "$oid": "657bb2779de839b563e780a6"
+  },
+  "HALE": "Healthy life expectancy (HALE) at age 60 (years)",
+  "Country": "Central African Republic",
+  "Year": 2019,
+  "Sex": "Both sexes",
+  "Age Expectancy": 9.95,
+  "Latitude": 7,
+  "Longitude": 21
+}]
