@@ -1,3 +1,9 @@
+Contents:
+Map: Leaflet map created to show male, female, and both sexes average life expectancy after age 60 for all included countries. View using index.html
+Plotly Charts: Two charts made via plotly displaying top and bottom countries healthy life expectancies.
+Bottom_janka: Through templates there are two htmls to view that create dashboards for quick viewing of the data.
+Scatterplots: Two scatterplots (quick view in images) created to view a random sample of countries' average healthy life expexctancies.
+
 Background
 
 Throughout the course of our presentation, we undertook a comprehensive analysis of global life expectancy data gathered from the World Health Organization. Covering a span of data from 2000 to 2019, this data has been helpful in analyzing global life expectancy in a comprehensive, simple way. Our exploration encompassed several variables, ranging from 183 countries and three sex groups in 2019, providing an understanding of the life expectancy worldwide. 
