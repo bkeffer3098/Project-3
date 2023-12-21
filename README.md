@@ -1,7 +1,11 @@
 Contents:
+
 Map: Leaflet map created to show male, female, and both sexes average life expectancy after age 60 for all included countries. View using index.html
+
 Plotly Charts: Two charts made via plotly displaying top and bottom countries healthy life expectancies.
+
 Bottom_janka: Through templates there are two htmls to view that create dashboards for quick viewing of the data.
+
 Scatterplots: Two scatterplots (quick view in images) created to view a random sample of countries' average healthy life expexctancies.
 
 Background
